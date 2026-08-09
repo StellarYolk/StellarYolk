@@ -18,7 +18,8 @@ Agents · LangGraph, Postgres · orchestration pipelines · owning ankles in bas
 
 - **Building agentic AI systems** — currently shipping a multi-agent product-recommendation pipeline 
 - **Something that shoots** - currently building Killjoy's signature ability
-- Previously: shipped 4 production AI features during my internship (real-time AI interview system, resume analyzer, mentor-matching engine, mentor CRM) — from ambiguous specs to deployment, with real cost/hardware constraints
+
+*Previously: shipped 4 production AI features during my internship (real-time AI interview system, resume analyzer, mentor-matching engine, mentor CRM) — from ambiguous specs to deployment, with real cost/hardware constraints*
 
 <div align="center">
   
@@ -30,24 +31,16 @@ Agents · LangGraph, Postgres · orchestration pipelines · owning ankles in bas
 ---
 
 ### Featured Projects
-
-**😀 [Face Emotion Detector](https://github.com/StellarYolk/Face-Emotion-Detector)**
-4-block CNN trained from scratch on FER2013 (28K images, 7 classes) — **65% validation accuracy**, on par with human-level agreement on the dataset. Class-weighted loss + cosine annealing to handle severe class imbalance; real-time webcam inference with MediaPipe and prediction smoothing.
-
-**🔬 Microparticle Detection & Navigation System** *(Research Done, Patent underway)*
-YOLOv8-based real-time microscopy tracking with autonomous multi-waypoint navigation. Hybrid YOLO→intensity-threshold tracker, custom ring-particle discrimination algorithm, and an adaptive ROI system that improves inference throughput without retraining.
-
-**🖐️ [Automated Ball Tracker](https://github.com/StellarYolk/Ball_tracker)**
-Real-time basketball tracking with fine-tuned YOLOv8 — **91% mAP@50**, live-tested at **84% accuracy**. Self-annotated 300-image dataset, servo-mounted ESP-32 camera controlled over Bluetooth, direction-inference module translating bounding boxes into live servo control under motion blur and occlusion.
-
-**💱 CBDC Offline Transaction Architecture** *(independent research)*
-Designed a dual-token architecture for offline-capable digital currency — diverging from the digital renminbi model toward mobile-first, offline-first usability. Surveyed 7+ papers from RBI/BIS, prototyped core logic on Hyperledger Fabric.
-
-*(Other repos: [Bitcoin-Predictor](https://github.com/StellarYolk/Bitcoin-Predictor), [Asteroid-prediction](https://github.com/StellarYolk/Asteroid-prediction), [Game-Gallery](https://github.com/StellarYolk/Game-Gallery), [BB_score_site](https://github.com/StellarYolk/BB_score_site))*
+| Project | Progress | What it is and does |
+|---|---|---|
+| **[Face Emotion Detector](https://github.com/StellarYolk/Face-Emotion-Detector)** | Done | 4-block CNN trained from scratch on FER2013 (28K images, 7 classes) — **65% validation accuracy**, on par with human-level agreement on the dataset. Class-weighted loss + cosine annealing to handle severe class imbalance; real-time webcam inference with MediaPipe and prediction smoothing | 
+| **Microparticle Detection & Navigation System** | Research Done, Patent Pending | YOLOv8-based real-time microscopy tracking with autonomous multi-waypoint navigation. Hybrid YOLO→intensity-threshold tracker, custom ring-particle discrimination algorithm, and an adaptive ROI system that improves inference throughput without retraining |
+| **[Automated Ball Tracker](https://github.com/StellarYolk/Ball_tracker)** | Done and tested in real match | Real-time basketball tracking with fine-tuned YOLOv8 — **91% mAP@50**, live-tested at **84% accuracy**. Self-annotated 300-image dataset, servo-mounted ESP-32 camera controlled over Bluetooth, direction-inference module translating bounding boxes into live servo control under motion blur and occlusion |
+| **CBDC Offline Transaction Architecture** | Independent Research | Designed a dual-token architecture for offline-capable digital currency — diverging from the digital renminbi model toward mobile-first, offline-first usability. Surveyed 7+ papers from RBI/BIS, prototyped core logic on Hyperledger Fabric |
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages:** ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 
