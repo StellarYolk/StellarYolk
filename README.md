@@ -1,29 +1,69 @@
-<!--
-## Hi there 👋
+<div align="center">
+<h1>Hi, I'm Parth 👋</h1>
 
-**StellarYolk/StellarYolk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Taking AI from *works in a notebook* to **works in production** under real cost and latency constraints
 
-Here are some ideas to get you started:
+Agents · LangGraph, Postgres · orchestration pipelines · owning ankles in basketball
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![IIT Bhilai](https://img.shields.io/badge/CSE_@_IIT_BHILAI-'28-1C1812?style=for-the-badge&labelColor=1C1812&color=2387de)
+![Open](https://img.shields.io/badge/OPEN_TO-WINTER_'26_INTERNSHIPS-B5532F?style=for-the-badge&labelColor=1C1812)
 
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1C1812?style=for-the-badge&logo=linkedin&logoColor=F7F1E5)](https://www.linkedin.com/in/parth-n-bhosale-0b5a0a315/)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=StellarYolk&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=StellarYolk&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=StellarYolk&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=StellarYolk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔭 What I'm working on
+
+- **Building agentic AI systems** — currently shipping a multi-agent product-recommendation pipeline (LangGraph orchestrator, parallel retrieval + verification agents, deterministic scoring) — live in ~2 weeks
+- Previously: shipped 4 production AI features during my internship (real-time AI interview system, resume analyzer, mentor-matching engine, mentor CRM) — from ambiguous specs to deployment, with real cost/hardware constraints
+- Learning: PostgreSQL, LangGraph, vector databases — picked up on contact with real projects, not from tutorials
+
+---
+
+### 🚀 Featured Projects
+
+**🖐️ [Automated Ball Tracker](https://github.com/StellarYolk/Ball_tracker)**
+Real-time basketball tracking with fine-tuned YOLOv8 — **91% mAP@50**, live-tested at **84% accuracy**. Self-annotated 300-image dataset, servo-mounted ESP-32 camera controlled over Bluetooth, direction-inference module translating bounding boxes into live servo control under motion blur and occlusion.
+
+**😀 [Face Emotion Detector](https://github.com/StellarYolk/Face-Emotion-Detector)**
+4-block CNN trained from scratch on FER2013 (28K images, 7 classes) — **65% validation accuracy**, on par with human-level agreement on the dataset. Class-weighted loss + cosine annealing to handle severe class imbalance; real-time webcam inference with MediaPipe and prediction smoothing.
+
+**🔬 Microparticle Detection & Navigation System** *(Research Done, Patent underway)*
+YOLOv8-based real-time microscopy tracking with autonomous multi-waypoint navigation. Hybrid YOLO→intensity-threshold tracker, custom ring-particle discrimination algorithm, and an adaptive ROI system that improves inference throughput without retraining.
+
+**💱 CBDC Offline Transaction Architecture** *(independent research)*
+Designed a dual-token architecture for offline-capable digital currency — diverging from the digital renminbi model toward mobile-first, offline-first usability. Surveyed 7+ papers from RBI/BIS, prototyped core logic on Hyperledger Fabric.
+
+*(Other repos: [Bitcoin-Predictor](https://github.com/StellarYolk/Bitcoin-Predictor), [Asteroid-prediction](https://github.com/StellarYolk/Asteroid-prediction), [Game-Gallery](https://github.com/StellarYolk/Game-Gallery), [BB_score_site](https://github.com/StellarYolk/BB_score_site))*
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+
+**AI / ML:** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-white?style=flat-square&logo=opencv) ![Ultralytics YOLO](https://img.shields.io/badge/YOLOv8-turquoise?style=flat-square) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Backend / Data:** ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express) ![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frontend / Tools:** ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+<!--
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=StellarYolk&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StellarYolk&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165"/>
+</p>
+-->
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=StellarYolk&theme=tokyonight&hide_border=false" height="165">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=StellarYolk&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+</p>
+
+---
+
+<p align="center"><i>Open to internships and collaborations in applied AI / agentic systems.</i></p>
