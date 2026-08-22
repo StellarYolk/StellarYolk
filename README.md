@@ -18,12 +18,14 @@ Agents · LangGraph, Postgres · orchestration pipelines · owning ankles in bas
 
 - **Building agentic AI systems** — currently shipping a multi-agent product-recommendation pipeline 
 - **Something that shoots** - currently building Killjoy's signature ability
+- **Universal sticky notes** - tired of continuoulsy opening my phone for notes app so solving that
+- **Email Managing Agent** - building an agent to sift through my emails, and remove unwanted emails & summarize and label important ones
 
 *Previously: shipped 4 production AI features during my internship (real-time AI interview system, resume analyzer, mentor-matching engine, mentor CRM) — from ambiguous specs to deployment, with real cost/hardware constraints*
 
 <div align="center">
   
-**On the road:** Vector databases · MCP    
+**On the road:** Vector databases · MCP
 
 </div>
 
