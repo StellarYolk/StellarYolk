@@ -16,7 +16,7 @@ Agents · LangGraph, Postgres · orchestration pipelines · owning ankles in bas
 
 ### What I'm working on right now
 
-- **Building agentic AI systems** — currently shipping a multi-agent product-recommendation pipeline 
+- **Microparticle detection efficiency** - improving base architecture for accuracy and latency 
 - **Something that shoots** - currently building Killjoy's signature ability
 - **Email Managing Agent** - building an agent to sift through my emails, and remove unwanted emails & summarize and label important ones
 
@@ -24,7 +24,7 @@ Agents · LangGraph, Postgres · orchestration pipelines · owning ankles in bas
 
 <div align="center">
   
-**On the road:** Vector databases · MCP
+**On the road:** Vector databases · MCP · System One Models
 
 </div>
 
