@@ -17,7 +17,7 @@ Agents · LangGraph, Postgres · orchestration pipelines · owning ankles in bas
 ### What I'm working on right now
 
 - **Microparticle detection efficiency** - improving base architecture for accuracy and latency 
-- **Something that shoots** - currently building Killjoy's signature ability
+- **Something that shoots** - currently building Killjoy's signature ability, in testing - demo out soon
 - **Email Managing Agent** - building an agent to sift through my emails, and remove unwanted emails & summarize and label important ones
 
 *Previously: shipped 4 production AI features during my internship (real-time AI interview system, resume analyzer, mentor-matching engine, mentor CRM) — from ambiguous specs to deployment, with real cost/hardware constraints*
